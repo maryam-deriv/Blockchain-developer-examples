@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dat-swarm-defaults": "^1.0.3",
+    "discovery-swarm": "^5.1.0",
+    "get-port": "^6.1.2"
+  },
+  "type": "module"
+}
