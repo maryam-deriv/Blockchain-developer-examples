@@ -4,7 +4,6 @@ const require = createRequire(import.meta.url);
 const crypto = require('crypto');
 const Swarm = require('discovery-swarm');
 const defaults = require('dat-swarm-defaults');
-// const getPort = require('get-port');
 import getPort from 'get-port';
 
 
